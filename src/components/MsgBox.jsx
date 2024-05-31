@@ -8,7 +8,7 @@ function MsgBox({message}) {
     return (
         <>
             <div>
-                <p className='break-words'>{message.message}</p>
+                <p className='break-words text-sm lg:text-lg'>{message.message}</p>
                 <button className={`${message.role === 'assistant' ? 'hidden' : ''} my-1  p-1 hover:bg-blue-600 rounded-full`}  onClick={() => deleteDispatch(deleteMessage(message))}>
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
