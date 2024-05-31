@@ -15,7 +15,7 @@ Welcome to Cheeky AI! This playful, naughty, and wild AI chatbot is designed to 
 - [React JS](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [DevUI](https://devui.design/)
+- [DevUI](https://devui.io/)
 - [DaisyUI](https://daisyui.com/)
 - [Uiverse.io](https://uiverse.io/)
 
