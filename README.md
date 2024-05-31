@@ -84,14 +84,5 @@ We welcome contributions to make Cheeky AI even better. If you have any ideas, s
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or need further assistance, feel free to reach out to us:
-
-- **Email:** support@cheekyai.com
-- **Twitter:** [@CheekyAI](https://twitter.com/CheekyAI)
-- **Facebook:** [CheekyAI](https://facebook.com/CheekyAI)
-- **Instagram:** [@CheekyAI](https://instagram.com/CheekyAI)
-
 Thank you for using Cheeky AI. Let's keep things cheeky!
 
