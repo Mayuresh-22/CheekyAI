@@ -130,7 +130,7 @@ function Header() {
                 </NavLink>
                 <a
                     class="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 px-4 py-2 group bg-gray-900 hover:bg-gray-950 transition-all duration-200 ease-in-out hover:ring-2 hover:ring-offset-2 hover:ring-gray-900"
-                    href='https://github.com/Mayuresh-22'
+                    href='https://github.com/Mayuresh-22/CheekyAI'
                     target="_blank"
                 >
                     <svg
