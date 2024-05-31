@@ -23,7 +23,7 @@ function MsgInput() {
             <form onSubmit={handleSubmit}>
                 <div className='fixed mx-auto flex px-4 py-2 inset-x-0 bottom-10 lg:bottom-20 gap-2 lg:w-1/2'>
                     <input
-                        class="w-full rounded-full shadow-lg bg-gray-200 text-secondary text-xl lg:p-3 px-3 py-2 border-2 border-secondary placeholder-secondary focus:text-primary focus:border-primary focus:outline-none"
+                        class="w-full rounded-full shadow-lg bg-gray-200 text-secondary lg:text-xl text-md lg:p-3 px-3 py-2 border-2 border-secondary placeholder-secondary focus:text-primary focus:border-primary focus:outline-none"
                         placeholder="Enter anything..."
                         value={message}
                         onChange={(e) => setMessage(e.target.value)}
