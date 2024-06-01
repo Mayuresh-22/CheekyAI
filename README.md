@@ -12,6 +12,7 @@ Welcome to Cheeky AI! This playful, naughty, and wild AI chatbot is designed to 
 - [Contact](#contact)
 
 ## Built With
+- [Cloudflare Pages](https://pages.cloudflare.com/)
 - [React JS](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
