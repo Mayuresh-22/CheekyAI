@@ -2,6 +2,9 @@
 
 Welcome to Cheeky AI! This playful, naughty, and wild AI chatbot is designed to add spice to your day. Cheeky AI is built with React JS using Vite bundler, styled with Tailwind CSS, and incorporates DevUI, DaisyUI, and Uiverse.io for enhanced UI components.
 
+![cheeky-screenshot](https://github.com/Mayuresh-22/CheekyAI/assets/111348926/9c30da44-fd71-4110-ab55-ce07fb2248fa)
+
+
 ## Table of Contents
 - [Built With](#built-with)
 - [Features](#features)
